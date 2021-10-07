@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamal027
 - 👀 I’m interested in learning Python and Data Analytics.
 - 🌱 I’m currently learning Python and basic data analytics methodologies.
-- 💞️ I’m looking to collaborate on projects related to Healthcare and Finance
+- 💞️ I’m looking to collaborate on data science projects on public datasets.
 - 📫 How to reach me .. kamalsharma027@gmail.com
 
 <!---
